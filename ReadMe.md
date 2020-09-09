@@ -16,7 +16,7 @@ USB Podcast microphone such as fifine K678 ($80 on Amazon).
 3) **Tripod**  
 Such as UBeesize 60-inch Camera Tripod ($36 on Amazon).  
 4) **USB Extension Cord**  
-Such as 6ft USB3.0 extension cable (9.50 on Amazon) for camera.  
+Such as 6ft USB3.0 extension cable ($9.50 on Amazon) for camera.  
 5) **USB Expansion Hub**   
 Such as AUkey USB3.0 ($13 on Amazon).  
 6) **External Speaker**  
