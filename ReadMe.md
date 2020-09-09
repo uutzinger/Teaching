@@ -1,5 +1,5 @@
 # Audio and Video Setup for PodCast Teaching
-The following lists low cost options for Zoom teaching with improved Audio and Video hardware. Also it helps to run two zoom sessions with one on a second monitor so you can see what the students see. 
+The following lists low cost options for Zoom teaching with improved Audio and Video hardware. Also it helps to run two zoom sessions with one on a second monitor so you can see what the students see (dont connect audio on that one). 
 
 ![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Setup.jpg).
 
