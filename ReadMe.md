@@ -21,19 +21,20 @@ Such as 6ft USB3.0 extension cable ($9.50 on Amazon) for camera.
 Such as AUkey USB3.0 ($13 on Amazon), if you dont have enough USB ports.  
 6) **External Speaker**  
 Such as TaoTronics Computer Speaker ($50 on Amazon)  
-and to connect audio output from computer to speaker with Amazon Basics 3.5mm male to male ($6.50 on Amazon). This is my "stage monitor" as sometimes its hard to hear the students.
+and to connect audio output from computer to speaker with Amazon Basics 3.5mm male to male ($6.50 on Amazon). This is my "stage monitor" as sometimes it's hard to hear the students.
 
 The lavalier microphone below together with additional USB audio input can also be used if one wants to walk around in front of whiteboard.
+I don't use Bluetooth connections as they have delay/latency.
 
 ### Multiple Microphones
 Some setups might require multiple audio input channels such as Lavalier Microphone and streaming of arbitrary video sources. Most teaching does not need that.  
 
 7) **Lavalier Microphone**  
-Such as Hotec Wireless Headset Lavalier Lapel Microphone ($50 on Amazon)  
+Such as Hotec Wireless Headset Lavalier Lapel Microphone ($50 on Amazon). This is inexpensive but also has quite some noise.  
 8) **Additional Audio Input/Output**  
-Such as UGREEN USB Audioadapter ($16 on Amazon)  
+Such as UGREEN USB Audioadapter ($16 on Amazon).  
 9) **Earbuds**  
-Such as Vogek Earbuds ($11 on Amazon)
+Such as Vogek Earbuds ($11 on Amazon). These are only needed to adjust audio mixing.  
 
 ## Software
 Usually there is **no additional** software needed for simple setups, however when using external microphones one needs to select proper audio input source in Zoom by clicking on uparrow on microphone or video symbol to select an other camera.  
