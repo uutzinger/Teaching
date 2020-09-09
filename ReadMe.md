@@ -10,9 +10,9 @@ To improve audio and video quality for online teaching I use the equipment liste
 Most is inspired by Youtube generation.
 
 1) **Microphone**  
-USB Podcast microphone such as fifine K678 ($80 on Amazon).  
+USB Podcast microphone such as fifine K678 ($80 on Amazon). Alternative: Blue Yeti ($130)  
 2) **Wide Angle Camera**  
-1080P camera such as Bietrun 145deg ($35 on Amazon).  
+1080P camera such as Bietrun 145deg ($35 on Amazon). Alternative: Logitech Brio 4K ($200).  
 3) **Tripod**  
 Such as UBeesize 60-inch Camera Tripod ($36 on Amazon).  
 4) **USB Extension Cord**  
