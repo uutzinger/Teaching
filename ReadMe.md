@@ -56,14 +56,17 @@ When one wants to stream from arbitrary video source, Open Source **OBS studio**
 When one wants to provide multiple audio input sources, an audio mixer such as **VoiceMeter Banana** is recommended. It is free software. Setup is not trivial. It provides two virtial audio in/out devices. One is for Zoom, the other to connect to Windows audio. The trick is not to connect the microphone to to speaker directly as that creates feedback. Similar monitor audio should not be connected to Zoom output otherwise echo is generated.
 
 ## Multiple Zoom Sessions on Same Computer
-Start Meeting and Cancel Open Zoom.
-![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom1.jpg)
-Start Zoom running in the browser;
-![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom2.jpg)
+**Start Meeting and Cancel Open Zoom.** 
+![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom1.jpg)  
 
-## Selecting Audio Device
-![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom3.jpg)
+**Start Zoom running in the browser.**  
+![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom2.jpg)  
+
+## Selecting Audio Device  
+
+![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom3.jpg)  
 
 ## Selecting Video Device
-Here I use youtube video as my camera feed
-![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom4.jpg)
+Here I use youtube video as my camera feed  
+
+![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom4.jpg)  
