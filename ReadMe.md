@@ -23,6 +23,8 @@ Such as AUkey USB3.0 ($13 on Amazon).
 Such as TaoTronics Computer Speaker ($50 on Amazon)  
 and to connect audio output from computer to speaker with Amazon Basics 3.5mm male to male ($6.50 on Amazon). This is my "stage monitor" as sometimes its hard to hear the students.
 
+The lavalier microphone below together with additional USB audio input can also be used if one wants to walk around in front of whiteboard.
+
 ### Multiple Microphones
 Some setups might require multiple audio input channels such as Lavalier Microphone and streaming of arbitrary video sources. Most teaching does not need that.  
 
