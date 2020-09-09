@@ -36,7 +36,7 @@ Such as UGREEN USB Audioadapter ($16 on Amazon)
 Such as Vogek Earbuds ($11 on Amazon)
 
 ## Software
-Usually there is **no additional** software needed for simple setups, however when using external microphones one needs to select proper audio input source in Zoom by clicking on uparrow on microphone or video symbol.  
+Usually there is **no additional** software needed for simple setups, however when using external microphones one needs to select proper audio input source in Zoom by clicking on uparrow on microphone or video symbol to select an other camera.  
 
 When one wants to stream from arbitrary video source, Open Source **OBS studio** provides virtual camera which can be used as input to Zoom and OBS can grab any parts of the computer screen. Usually that is not needed as one can already share the screen.
 
