@@ -1,5 +1,17 @@
 # Audio and Video Setup for PodCast Teaching
-The following lists low cost options for Zoom teaching with improved Audio and Video hardware. Also it helps to run two zoom sessions with one on a second monitor so you can see what the students see (dont connect audio on second session). 
+
+- [Audio and Video Setup for PodCast Teaching](#audio-and-video-setup-for-podcast-teaching)
+  * [Hardware](#hardware)
+    + [Simple](#simple)
+    + [Multiple Microphones](#multiple-microphones)
+  * [Software](#software)
+  * [Multiple Zoom Sessions on Same Computer](#multiple-zoom-sessions-on-same-computer)
+  * [Selecting Audio Device](#selecting-audio-device)
+  * [Selecting Video Device](#selecting-video-device)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+The following lists low cost options for Zoom teaching with improved Audio and Video hardware. Also it helps to run two zoom sessions so you can see what the students see (dont connect audio on second session, see below). 
 
 ![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Setup.jpg).
 
@@ -42,3 +54,16 @@ Usually there is **no additional** software needed for simple setups, however wh
 When one wants to stream from arbitrary video source, Open Source **OBS studio** provides virtual camera which can be used as input to Zoom and OBS can grab any parts of the computer screen. Usually that is not needed as one can already share the screen.
 
 When one wants to provide multiple audio input sources, an audio mixer such as **VoiceMeter Banana** is recommended. It is free software. Setup is not trivial. It provides two virtial audio in/out devices. One is for Zoom, the other to connect to Windows audio. The trick is not to connect the microphone to to speaker directly as that creates feedback. Similar monitor audio should not be connected to Zoom output otherwise echo is generated.
+
+## Multiple Zoom Sessions on Same Computer
+Start Meeting and Cancel Open Zoom.
+![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom1.jpg)
+Start Zoom running in the browser;
+![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom2.jpg)
+
+## Selecting Audio Device
+![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom3.jpg)
+
+## Selecting Video Device
+Here I use youtube video as my camera feed
+![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom4.jpg)
