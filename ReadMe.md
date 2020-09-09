@@ -34,8 +34,8 @@ Such as UGREEN USB Audioadapter ($16 on Amazon)
 Such as Vogek Earbuds ($11 on Amazon)
 
 ## Software
-Usually there is **no additional** software needed for simple setups, however when using external microphones one needs to select proper audio input source in Zoom by clickin on uparrow on microphone or video symbol.  
+Usually there is **no additional** software needed for simple setups, however when using external microphones one needs to select proper audio input source in Zoom by clicking on uparrow on microphone or video symbol.  
 
-When one wants to stream from arbitrary video source, Open Source **OBS studio** provides virtual camera which can be used as input to Zoom and OBS can grab any parts of the computer screen.
+When one wants to stream from arbitrary video source, Open Source **OBS studio** provides virtual camera which can be used as input to Zoom and OBS can grab any parts of the computer screen. Usually that is not needed as one can already share the screen.
 
-When one wants to provide multiple audio input sources an Audiomixer such as **VoiceMeter Banana** is recommended. Its free software. Setup is not trivial. It provides two virtial audio in/out devices. One is for Zoom, the other to connect to Windows audio. The trick is not to connect the microphone to to speaker directly as that creates feedback. Similar Zoom input should not be connected to Zoom output otherwise echo is generated.
+When one wants to provide multiple audio input sources an Audiomixer such as **VoiceMeter Banana** is recommended. It is free software. Setup is not trivial. It provides two virtial audio in/out devices. One is for Zoom, the other to connect to Windows audio. The trick is not to connect the microphone to to speaker directly as that creates feedback. Similar Zoom input should not be connected to Zoom output otherwise echo is generated.
