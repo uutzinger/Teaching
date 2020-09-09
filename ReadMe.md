@@ -18,7 +18,7 @@ Such as UBeesize 60-inch Camera Tripod ($36 on Amazon).
 4) **USB Extension Cord**  
 Such as 6ft USB3.0 extension cable ($9.50 on Amazon) for camera.  
 5) **USB Expansion Hub**   
-Such as AUkey USB3.0 ($13 on Amazon).  
+Such as AUkey USB3.0 ($13 on Amazon), if you dont have enough USB ports.  
 6) **External Speaker**  
 Such as TaoTronics Computer Speaker ($50 on Amazon)  
 and to connect audio output from computer to speaker with Amazon Basics 3.5mm male to male ($6.50 on Amazon). This is my "stage monitor" as sometimes its hard to hear the students.
