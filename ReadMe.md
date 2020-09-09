@@ -1,7 +1,7 @@
 # Audio and Video Setup for PodCast Teaching
 The following lists low cost options for Zoom teaching with improved Audio and Video hardware.
 
-![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png).
+![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Setup.jpg).
 
 ## Hardware
 
