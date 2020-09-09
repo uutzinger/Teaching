@@ -1,5 +1,5 @@
 # Audio and Video Setup for PodCast Teaching
-The following lists low cost options for Zoom teaching with improved Audio and Video hardware.
+The following lists low cost options for Zoom teaching with improved Audio and Video hardware. Also it helps to run two zoom sessions with one on a second monitor so you can see what the students see. 
 
 ![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Setup.jpg).
 
@@ -38,4 +38,4 @@ Usually there is **no additional** software needed for simple setups, however wh
 
 When one wants to stream from arbitrary video source, Open Source **OBS studio** provides virtual camera which can be used as input to Zoom and OBS can grab any parts of the computer screen. Usually that is not needed as one can already share the screen.
 
-When one wants to provide multiple audio input sources an Audiomixer such as **VoiceMeter Banana** is recommended. It is free software. Setup is not trivial. It provides two virtial audio in/out devices. One is for Zoom, the other to connect to Windows audio. The trick is not to connect the microphone to to speaker directly as that creates feedback. Similar Zoom input should not be connected to Zoom output otherwise echo is generated.
+When one wants to provide multiple audio input sources an audio mixer such as **VoiceMeter Banana** is recommended. It is free software. Setup is not trivial. It provides two virtial audio in/out devices. One is for Zoom, the other to connect to Windows audio. The trick is not to connect the microphone to to speaker directly as that creates feedback. Similar Zoom input should not be connected to Zoom output otherwise echo is generated.
