@@ -13,7 +13,7 @@
 
 The following lists low cost options for Zoom teaching with improved Audio and Video hardware. Also it helps to run two zoom sessions so you can see what the students see (dont connect audio on second session, see below). 
 
-![Urs' setup](https://github.com/uutzinger/Teaching/TeachingPodCast/Setup.jpg).
+![Urs' setup](https://github.com/uutzinger/Teaching/blob/master/TeachingPodCast/Setup.jpg).
 
 ## Hardware
 
@@ -57,16 +57,16 @@ When one wants to provide multiple audio input sources, an audio mixer such as *
 
 ## Multiple Zoom Sessions on Same Computer
 **Start Meeting and Cancel Open Zoom.** 
-![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom1.jpg)  
+![Urs' setup](https://github.com/uutzinger/Teaching/blob/master/TeachingPodCast/Zoom1.jpg)  
 
 **Start Zoom running in the browser.**  
-![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom2.jpg)  
+![Urs' setup](https://github.com/uutzinger/Teaching/blob/master/TeachingPodCast/Zoom2.jpg)  
 
 ## Selecting Audio Device  
 
-![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom3.jpg)  
+![Urs' setup](https://github.com/uutzinger/Teaching/blob/master/TeachingPodCast/Zoom3.jpg)  
 
 ## Selecting Video Device
 Here I use youtube video as my camera feed  
 
-![Urs' setup](https://github.com/uutzinger/TeachingPodCast/blob/master/Zoom4.jpg)  
+![Urs' setup](https://github.com/uutzinger/Teaching/blob/master/TeachingPodCast/Zoom4.jpg)  
