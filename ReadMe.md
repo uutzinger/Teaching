@@ -10,4 +10,4 @@
 * [**Pod Cast Setup**](https://github.com/uutzinger/Teaching/blob/master/TeachingPodCast/ReadMe.md)
 
 ## Hardware Software
-* [**Software list and Notebook Requirements**](https://github.com/uutzinger/Teaching/blob/master/NotebookRequirements.md)
+* [**Suggested Software and Notebook Hardware**](https://github.com/uutzinger/Teaching/blob/master/NotebookRequirements.md)
