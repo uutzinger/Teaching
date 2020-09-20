@@ -13,7 +13,7 @@
 
 The following lists low cost options for Zoom teaching with improved Audio and Video hardware. Also it helps to run two zoom sessions so you can see what the students see (dont connect audio on second session, see below). 
 
-![Urs' setup](https://github.com/uutzinger/Teaching/blob/master/Setup.jpg).
+![Urs' setup](https://github.com/uutzinger/Teaching/TeachingPodCast/Setup.jpg).
 
 ## Hardware
 
