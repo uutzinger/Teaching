@@ -1,18 +1,13 @@
 # Collection of Teaching Writeups
 
-- [Audio and Video Setup for PodCast Teaching](#audio-and-video-setup-for-podcast-teaching)
-  * [Hardware](#hardware)
-    + [Simple](#simple)
-    + [Multiple Microphones](#multiple-microphones)
-  * [Software](#software)
-  * [Multiple Zoom Sessions on Same Computer](#multiple-zoom-sessions-on-same-computer)
-  * [Selecting Audio Device](#selecting-audio-device)
-  * [Selecting Video Device](#selecting-video-device)
+- [Collection of Teaching Writeups](#collection-of-teaching-writeups)
+  * [Teaching Setup](#teaching-setup)
+  * [Hardware Software](#hardware-software)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Teaching Setup
-* [**Pod Cast Setup**]()
+* [**Pod Cast Setup**](https://github.com/uutzinger/Teaching/blob/master/TeachingPodCast/ReadMe.md)
 
 ## Hardware Software
-* [**Software list and Notebook Requirements**]()
+* [**Software list and Notebook Requirements**](https://github.com/uutzinger/Teaching/blob/master/NotebookRequirements.md)
